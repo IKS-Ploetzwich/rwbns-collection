@@ -6,7 +6,9 @@
   "verion": "0.0.1",
   "minimumCoreVerison": "0.7.6",
   "compatibleCoreVersion": "0.7.6",
-  "scripts": ["scripts/drink-potion.js"],
+  "scripts": [
+    "scripts/drink-potion.js"
+  ],
   "packs": [
     {
       "name": "rwbns-dnd5e-macros",
