@@ -1,0 +1,1 @@
+{"name":"Drink potion","permission":{"default":0,"e1GJldqKX2xtXEGs":3},"type":"script","flags":{"core":{"sourceId":"Macro.uPmWTeIYXncK5ZuC"}},"scope":"global","command":"drinkPotion(speaker);","author":"e1GJldqKX2xtXEGs","img":"modules/rwbns-dnd5e-collection/artwork/drink_potion.png","actorIds":[],"_id":"K8H9sFRvsKeah7Vd"}
