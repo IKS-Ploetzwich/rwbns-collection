@@ -8,7 +8,7 @@ function drinkPotion(speaker) {
   if (
     actor === null ||
     actor === undefined ||
-    canvas.tokens.controlled.leangth > 1
+    canvas.tokens.controlled.length > 1
   ) {
     ui.notifications.error("Please select a single token");
     return;
