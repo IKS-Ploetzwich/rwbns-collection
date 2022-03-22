@@ -20,7 +20,7 @@
       "module": "rwbns-dnd5e-collection"
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/IKS-Ploetzwich/rwbns-dnd5e-collection/master/module.json",
-  "url": "https://github.com/IKS-Ploetzwich/rwbns-dnd5e-collection",
-  "download": "https://github.com/IKS-Ploetzwich/rwbns-dnd5e-collection/releases/download/1.0.0/rwbns-dnd5e-collection.zip"
+  "manifest": "https://raw.githubusercontent.com/IKS-Ploetzwich/rwbns-collection/master/module.json",
+  "url": "https://github.com/IKS-Ploetzwich/rwbns-collection",
+  "download": "https://github.com/IKS-Ploetzwich/rwbns-dnd5e-collection/releases/download/1.0.0/rwbns-collection.zip"
 }
