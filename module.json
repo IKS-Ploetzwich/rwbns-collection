@@ -16,9 +16,8 @@
       "label": "rwbn's DnD5e Macros",
       "system": "dnd5e",
       "path": "packs/rwbns-dnd5e-macros.db",
-      "entity": "Macro",
-      "module": "rwbns-collection"
-    }
+      "entity": "Macro"
+    },
   ],
   "manifest": "https://raw.githubusercontent.com/IKS-Ploetzwich/rwbns-collection/master/module.json",
   "url": "https://github.com/IKS-Ploetzwich/rwbns-collection"
