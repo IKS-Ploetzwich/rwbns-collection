@@ -1,6 +1,6 @@
 {
   "name": "rwbns-collection",
-  "title": "rwbns Collection",
+  "title": "rwbn's Collection",
   "description": "A collection of macros, items, scenes and actors",
   "version": "1.0.5",
   "authors": [
@@ -13,8 +13,10 @@
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
   "scripts": [
-    "scripts/drink-potion.js",
-    "scripts/eat-ration.js"
+    "./scripts/drink-potion.js",
+    "./scripts/eat-ration.js"
+  ],
+  "styles": [
   ],
   "packs": [
     {
