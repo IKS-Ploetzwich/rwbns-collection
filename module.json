@@ -1,11 +1,17 @@
 {
   "name": "rwbns-collection",
-  "title": "rwbn's Collection",
+  "title": "rwbns Collection",
   "description": "A collection of macros, items, scenes and actors",
-  "author": "rwbn",
   "verion": "1.0.2",
-  "minimumCoreVerison": "0.9.0",
-  "compatibleCoreVersion": "0.9.0",
+  "authors": [
+      {
+          "name": "rwbn",
+          "email": "dev@rwbn.de",
+          "url": "https://github.com/IKS-Ploetzwich/"
+      }
+  ],
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
   "scripts": [
     "scripts/drink-potion.js",
     "scripts/eat-ration.js"
@@ -16,10 +22,11 @@
       "label": "rwbn's DnD5e Macros",
       "system": "dnd5e",
       "path": "packs/rwbns-dnd5e-macros.db",
-      "entity": "Macro"
+      "entity": "Macro",
+      "module": "rwbns-collection"
     },
   ],
-  "manifest": "https://raw.githubusercontent.com/IKS-Ploetzwich/rwbns-collection/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/IKS-Ploetzwich/releases/latest/download/module.json",
   "url": "https://github.com/IKS-Ploetzwich/rwbns-collection",
-  "download": "https://github.com/IKS-Ploetzwich/rwbns-collection/releases/download/1.0.2/rwbns-collection.zip"
+  "download": "https://github.com/IKS-Ploetzwich/rwbns-collection/releases/latest/download/rwbns-collection.zip"
 }
