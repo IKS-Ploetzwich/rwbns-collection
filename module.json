@@ -3,8 +3,8 @@
   "title": "rwbn's Collection",
   "description": "A collection of macros, items, scenes and actors",
   "author": "rwbn",
-  "verion": "0.0.1",
-  "minimumCoreVerison": "0.7.6",
+  "verion": "1.0.2",
+  "minimumCoreVerison": "0.9.0",
   "compatibleCoreVersion": "0.9.0",
   "scripts": [
     "scripts/drink-potion.js",
